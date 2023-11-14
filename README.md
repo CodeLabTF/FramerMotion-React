@@ -1,4 +1,4 @@
-# Framer implementation inspired by 
+ Framer implementation inspired by 
 "Tom Is Loading" Youtube content.
 
 
