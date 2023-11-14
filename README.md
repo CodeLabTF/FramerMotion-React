@@ -1,3 +1,11 @@
+# Framer implementation inspired by 
+"Tom Is Loading" Youtube content.
+
+
+
+
+
+The Usual List of React app commands:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
