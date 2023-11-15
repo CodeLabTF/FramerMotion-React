@@ -3,6 +3,6 @@
 
 
 
-No code here is copy pasted and is hand written and tested at every step. 
+No code here is copy pasted and is typed and tested at every step. 
 
 
