@@ -1,5 +1,5 @@
  Framer implementation inspired by 
-Tom Is Loading Youtube content.
+Tom Is Loading Youtube channel.
 
 
 
